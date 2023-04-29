@@ -1,0 +1,6 @@
+Surname: Rozberg
+Name: Maria
+Middlename: Nickolaevna
+Age: 36 
+The number of pets: 2 cats
+Expected salary: 500 USD
